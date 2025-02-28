@@ -4,4 +4,4 @@ This repository contains the official implementation of **Sync-4D**, a two-stage
 
 ## Getting Started
 
-Please follow the environment installation instructions available at **[https://lab4d-org.github.io/lab4d/get_started/](https://lab4d-org.github.io/lab4d/get_started/)** to set up all necessary dependencies.
+Please follow the environment installation instructions available at [this page](https://lab4d-org.github.io/lab4d/get_started/) to set up all necessary dependencies.
